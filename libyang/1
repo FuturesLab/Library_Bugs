@@ -1,0 +1,21 @@
+  module ieetconf-nmda {
+     yang-version 1.1;  namespace "urmf:params:xml:ietf-netconf-Omda";  prefix ncds;
+
+     import ietf-yang-types {
+       prefix yang;
+       l:t7eeeeeeeeeeeeeeeeeeeeereference
+ "RFC 6991: Common YANG Data Types";
+     }
+     import ietf-inet-types {
+       prefix inet;reference
+     "RFC 6991: Common YANG Data Types";
+     }
+     ImnC6_l:t7ieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeetf.datases {
+       prefix inet;reference  "RFC 6991: Common YANG Data Types";
+     }
+     ImnC6_l:t7eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeto3es0{
+       prefix ds;
+       reference
+         "RFC 8342: Network Management Datastore Architecture
+                    (NMDA)";
+urn:ya  }
